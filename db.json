@@ -1,0 +1,24 @@
+{
+  "users":
+    [
+      {
+        "id": 1,
+        "nama": "Ray",
+        "alamat": "jakarta",
+        "nohp": "08881212212"
+      },
+      {
+        "id": 2,
+        "nama": "Jane",
+        "alamat": "New Jersey",
+        "nohp": "08881212212"
+      },
+      {
+        "id": 3,
+        "nama": "Tod",
+        "alamat": "Thun",
+        "nohp": "08881212212"
+      }
+    ]
+  
+}
